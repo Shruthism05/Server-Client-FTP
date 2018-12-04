@@ -1,2 +1,2 @@
 # Server-Client-FTP
-Transfer  files between a client and server using FTP and TCP
+Transfer files between a client and a server using FTP and TCP techniques.
